@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Activity10</string>
+    <string name="comienza">Comienza</string>
+    <string name="registrate">Registrate</string>
+    <string name="remeber">Recupera tu contraseña</string>
+    <string name="google">Ingresa con Google</string>
+    <string name="notienes">No tienes Cuenta?</string>
+    <string name="text_home">Inicia una nueva aventura con %1$s y descubre una nueva forma de ver el mundo</string>
+    <string name="author">Juan David Gelviz</string>
+    <string name="text_login">La aventura esta por iniciar, por favor inicia sesion</string>
+    <string name="ingresar">Ingresar</string>
 </resources>

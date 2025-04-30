@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/custom_button.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Color de fondo personalizado -->
+    <solid android:color="@color/white" /> <!-- Cambia esto por tu color -->
+
+    <!-- Borde -->
+    <stroke
+        android:width="4dp"
+        android:color="@color/blue" /> <!-- Cambia esto por el color del borde -->
+
+    <!-- Bordes redondeados -->
+    <corners android:radius="10dp" />
+
+</shape>
