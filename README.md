@@ -1,4 +1,5 @@
-![10](https://github.com/user-attachments/assets/65fc6a97-9f28-4081-8ff9-fb1c6d1db7e6)
+<img src="https://github.com/user-attachments/assets/65fc6a97-9f28-4081-8ff9-fb1c6d1db7e6" alt="10" width="300"/>
+
 
 # 📱 Activity10
 
